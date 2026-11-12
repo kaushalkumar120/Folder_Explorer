@@ -1,0 +1,15 @@
+D:\windows\Project4_FolderExplorer\bin\Debug\net8.0-windows\Project4_FolderExplorer.exe
+D:\windows\Project4_FolderExplorer\bin\Debug\net8.0-windows\Project4_FolderExplorer.deps.json
+D:\windows\Project4_FolderExplorer\bin\Debug\net8.0-windows\Project4_FolderExplorer.runtimeconfig.json
+D:\windows\Project4_FolderExplorer\bin\Debug\net8.0-windows\Project4_FolderExplorer.dll
+D:\windows\Project4_FolderExplorer\bin\Debug\net8.0-windows\Project4_FolderExplorer.pdb
+D:\windows\Project4_FolderExplorer\obj\Debug\net8.0-windows\Project4_FolderExplorer.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows\Project4_FolderExplorer\obj\Debug\net8.0-windows\Project4_FolderExplorer.AssemblyInfoInputs.cache
+D:\windows\Project4_FolderExplorer\obj\Debug\net8.0-windows\Project4_FolderExplorer.AssemblyInfo.cs
+D:\windows\Project4_FolderExplorer\obj\Debug\net8.0-windows\Project4_FolderExplorer.csproj.CoreCompileInputs.cache
+D:\windows\Project4_FolderExplorer\obj\Debug\net8.0-windows\Project4_FolderExplorer.dll
+D:\windows\Project4_FolderExplorer\obj\Debug\net8.0-windows\refint\Project4_FolderExplorer.dll
+D:\windows\Project4_FolderExplorer\obj\Debug\net8.0-windows\Project4_FolderExplorer.pdb
+D:\windows\Project4_FolderExplorer\obj\Debug\net8.0-windows\Project4_FolderExplorer.genruntimeconfig.cache
+D:\windows\Project4_FolderExplorer\obj\Debug\net8.0-windows\ref\Project4_FolderExplorer.dll
+D:\windows\Project4_FolderExplorer\obj\Debug\net8.0-windows\Project4.5CE080C7.Up2Date
